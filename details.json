@@ -1,0 +1,9 @@
+{
+    "city": {
+        "city_name" : "Write the city name here"
+    },
+
+    "car_details": {
+      "car_name" : "Write the car name or model name"
+    }
+}
